@@ -1,4 +1,4 @@
-# efood_multivendor
+# Medicine Delivery App
 
 A new Flutter application.
 
